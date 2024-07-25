@@ -1,4 +1,5 @@
 
+
 // Destructing of objects and array
 //              0         1       2        3
 let names = ["chinmay", "amol", "raj", "satish"]
