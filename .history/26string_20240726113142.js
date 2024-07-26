@@ -207,4 +207,4 @@ let q13 = names3.split('a')
 console.log(q13)
 console.log(q13.join("a"))
 
-// next destructor
+// next ddestructor

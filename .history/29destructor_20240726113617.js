@@ -291,4 +291,4 @@ students2.forEach(function (el) {
 console.log(students2)
 
 
-// next DOM (Document Object Model)
+// next DOM(Document Object Model)
