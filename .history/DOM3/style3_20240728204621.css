@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    background-color: yellow;
+}
+
+p {
+    color: red;
+    background-color: greenyellow;
+    border-radius: 5px;
+    width: 250px;
+    height: 5px;
+
+}
+
