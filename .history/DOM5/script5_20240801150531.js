@@ -14,12 +14,7 @@ console.log(byName)
 
 
 // updating name
-
 // console.log(byName.textContent)
 // byName.textContent = "SHUBHAM"
 
 // updating name on useraction 
-
-byClass.addEventListener('click', function () {
-    byClass.textContent = "SHUBHAM"
-})
