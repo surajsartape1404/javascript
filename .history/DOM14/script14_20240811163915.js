@@ -22,36 +22,19 @@ function createButtons(li) {
     li.appendChild(r)
 
     let u = document.createElement('button')   // <button></button>
-    u.textContent = "Up"       // <button>Remove</button>
-    u.classList.add('up')      // <button class = "up">Up</button>
-    li.appendChild(u)
+    r.textContent = "Up"       // <button>Remove</button>
+    r.classList.add('up')      // <button class = "up">Up</button>
+    li.appendChild(r)
 
     let d = document.createElement('button')   // <button></button>
-    d.textContent = "Down"       // <button>Remove</button>
-    d.classList.add('down')      // <button class = "down">Down</button>
-    li.appendChild(d)
+    r.textContent = "Down"       // <button>Remove</button>
+    r.classList.add('down')      // <button class = "down">Down</button>
+    li.appendChild(r)
 }
 
 
 ullist.addEventListener('click', function (event) {
 
-    //console.log(event.target)
-    //console.log(event.target.tagName)
-    //console.log(event.target.className)
-
-
-    if (event.target.tagName == "Button") {
-
-        if (event.target.className == "remove") {
-
-        }
-        else if (event.target.className == "up") {
-
-        }
-        else if (event.target.className == "down") {
-
-        }
-
-    }
-
+    console.log(event.target)
+    console.log(event.target.tagName)
 })

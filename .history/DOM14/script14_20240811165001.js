@@ -38,20 +38,15 @@ ullist.addEventListener('click', function (event) {
     //console.log(event.target)
     //console.log(event.target.tagName)
     //console.log(event.target.className)
+})
 
+if (event.target.tagName == "Button") {
 
-    if (event.target.tagName == "Button") {
-
-        if (event.target.className == "remove") {
-
-        }
-        else if (event.target.className == "up") {
-
-        }
-        else if (event.target.className == "down") {
-
-        }
+    if (event.target.className == "remove") {
 
     }
+    else if (event.target.className == "up") {
 
-})
+    }
+    else if (event.target.className == "down")
+}
