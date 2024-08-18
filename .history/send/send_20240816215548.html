@@ -1,0 +1,16 @@
+<form>
+    <input type="text">
+    <input type="submit" value="
+    Send">
+</form>
+
+<style>
+    input[type="submit"] {
+        opacity: 0;
+        transition: .2s;
+    }
+
+    input:not(:placeholder-shown)+input[type="submit"] {
+        opacity: 1;
+    }
+</style>
