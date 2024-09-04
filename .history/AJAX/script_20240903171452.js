@@ -39,7 +39,7 @@
 //     setTimeout(function () {
 //         console.log("getInfo")
 //     }, 1000)
-// }
+// }\
 // getInfo()
 
 // program 3  async ----synchronously execute
