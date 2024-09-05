@@ -138,7 +138,7 @@ pro4
     .then(function (str) {
         console.log(str)
     })
-    .then(function (str) {
+    .cat(function (str) {
         console.log(str)
     })
     .finally(function () {
