@@ -80,7 +80,7 @@
 //         resolve([11, 22, 3])
 //     }
 //     else {
-//         reject({ firstName: "chinmay" })
+//         reject({ firstName: "suraj" })
 //     }
 
 // })
@@ -102,7 +102,7 @@
 //         resolve([11, 22, 3])
 //     }
 //     else {
-//         reject({ firstName: "chinmay" })
+//         reject({ firstName: "suraj" })
 //     }
 
 // })
@@ -124,7 +124,7 @@
 //         resolve([11, 22, 3])
 //     }
 //     else {
-//         reject({ firstName: "chinmay" })
+//         reject({ firstName: "suraj" })
 //     }
 // })
 
