@@ -1,6 +1,0 @@
-// async vs sync
-
-function addition(){
-    console.log("addition A")
-}
-

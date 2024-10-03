@@ -1,0 +1,3 @@
+// rest operator
+
+function addAll()
