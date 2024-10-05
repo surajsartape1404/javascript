@@ -1,0 +1,2 @@
+// bind() , call() , apply()
+
